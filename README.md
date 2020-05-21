@@ -12,7 +12,7 @@
 
 For Request and Response i have used **Postman**.
 
-For starting the server use code `npm start` in dir terminal and it will start on PORT 3000. 
+For **starting the serve**r use code `npm start` in directory terminal and it will start on PORT 3000. 
 
 Note:
 In `.env` file you have to use your own mongoose link which you can get from http://cloud.mongodb.com/.
